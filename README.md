@@ -3,8 +3,7 @@
 Problem:
 
 The basic sales tax is 10% on all goods, except books,
-foodstuffs and medical products, which are exempt from tax. The import duty is an additional
-sales tax
+foodstuffs and medical products, which are exempt from tax. The import duty is an additional sales tax
 levied on all imported goods at a rate of 5% and for which there are no exemptions. When I
 buy, I receive a receipt that lists all the items and their price
 the price (including taxes) and finally the total cost of the items,
@@ -12,7 +11,7 @@ and the total amount of sales tax paid. The rounding rules for sales tax
 state that if the tax rate is n%, a shelf price of p (np/100 rounded up
 rounded up to the nearest 0.05) is VAT.
 
-Input I
+Input I:
 1 book at 12.49
 1 music CD at 14.99
 1 chocolate bar at 0.85
